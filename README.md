@@ -2,7 +2,7 @@
 
 Um chatbot inteligente e moderno com interface web responsiva, desenvolvido com foco em experiência do usuário, simulação multicanal e recursos básicos de processamento de linguagem natural. O projeto foi construído utilizando tecnologias de ponta como Vite, React, TypeScript, Tailwind CSS e Shadcn UI.
 
-![Preview do projeto](./public/review-carousel.png)
+![Preview do projeto](./public/.png)
 
 ## 🚀 Tecnologias utilizadas
 
